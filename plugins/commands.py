@@ -2,9 +2,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram import Client, filters
 
 
-REPO = "**🗂️ Repo :** [VcBot Repo](https://github.com/The-HellBot/VcBot)\n\n🌟 **Github :** [The-HellBot](https://github.com/The-HellBot) \n\n**📍   [Group](https://t.me/hellbot_chat)  &  [Channel](https://t.me/its_hellbot)   📍**"
+REPO = "**🗂️ Repo :** [VcBot Repo](https://github.com/The-HellBot/VcBot)\n\n🌟 **Github :** [DOSTI_GROUP_1234](https://github.com/The-HellBot) \n\n**📍   [Group](https://t.me/DOSTI_GROUP_1234)  &  [Channel](https://t.me/DOSTI_GROUP_1234)   📍**"
 HOME_TEXT = "💖 **Hi [{}](tg://user?id={})**,\n\nI'm **Hêll Music Bot** \nI Can Play Radio/Stream Music In Channels & Groups 24x7 Nonstop!\n\n**😉 Happy Streaming 😉**"
-HELP = """**Join @The_HellBot and @Its_Fuckin_Hell to get more help!!
+HELP = """**Join @DOSTI_GROUP_1234 and @DOSTI_GROUP_1234 to get more help!!
 
 🏷️ **Users Commands**:
 \u2022 `/play`  -  Reply to an audio to play or add to queue.
@@ -35,8 +35,8 @@ HELP = """**Join @The_HellBot and @Its_Fuckin_Hell to get more help!!
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('📺 CHANNEL', url='https://t.me/The_HellBot'),
-        InlineKeyboardButton('🏘️ Group', url='https://t.me/Its_Fuckin_Hell'),
+        InlineKeyboardButton('📺 CHANNEL', url='https://t.me/DOSTI_GROUP_1234'),
+        InlineKeyboardButton('🏘️ Group', url='https://t.me/DOSTI_GROUP_1234'),
     ],
     [
         InlineKeyboardButton('📑 GitHub', url='https://github.com/The-HellBot'),
